@@ -1,0 +1,9 @@
+{
+  "name": "default",
+  "lowerName": "default",
+  "version": "1.0.0",
+  "description": "A Default retrex admin Template",
+  "author": "DeathSoulYT",
+  "icon": "https://retropeak.solutions/assets/core/img/logo.png",
+  "enabled": true
+}
