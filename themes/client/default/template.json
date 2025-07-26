@@ -1,0 +1,9 @@
+{
+  "name": "Default",
+  "lowerName": "default",
+  "version": "1.0.0",
+  "description": "The Default Retrex Billing Client Theme",
+  "author": "DeathSoulYT",
+  "icon": "https://retropeak.solutions/assets/core/img/logo.png",
+  "enabled": true
+}
